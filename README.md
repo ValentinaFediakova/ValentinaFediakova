@@ -4,4 +4,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaFediakova&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sovch&short_numbers=true)](https://git.io/streak-stats)
