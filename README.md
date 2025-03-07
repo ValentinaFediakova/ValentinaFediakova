@@ -4,4 +4,4 @@
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ValentinaFediakova&short_numbers=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValentinaFediakova&short_numbers=true)](https://git.io/streak-stats)
