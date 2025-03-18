@@ -2,6 +2,7 @@
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="300"/>
 </div>
 
+
 <h2 align="left">🛠  Technologies and tools</h2>
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -29,4 +30,9 @@
 </div>
 
 <h2 align="left">📖  What am I studying now</h2>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
+<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/></a>
+<br/>
+<br/>
+
+[![codewars](https://www.codewars.com/users/Sovch/badges/large?theme=light)](https://www.codewars.com/users/Sovch)   
+
