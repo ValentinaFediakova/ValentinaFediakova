@@ -30,7 +30,7 @@
 </div>
 
 <h2 align="left">📖  What I am studying now</h2>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/></a>
+<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-180x180.png?v=1.1" alt="canvasjs" width="40" height="40"/></a>
 <br/>
 <br/>
 
