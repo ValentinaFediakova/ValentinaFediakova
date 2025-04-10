@@ -17,6 +17,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> 
   <a href="https://www.astro.build/" target="_blank" style="text-decoration: none;"><img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
+  <a href="https://websocket.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://websocket.org/_astro/websocket-logo.136709ef_Zllu57.webp" alt="websocket" width="40" height="40"/></a>
   <a href="https://realm.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/></a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
