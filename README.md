@@ -32,6 +32,7 @@
 
 <h2 align="left">📖  What I am studying now</h2>
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://canvasjs.com/wp-content/uploads/images/favicon/canvasjs-favicon-180x180.png?v=1.1" alt="canvasjs" width="40" height="40"/></a>
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 <br/>
 <br/>
 
